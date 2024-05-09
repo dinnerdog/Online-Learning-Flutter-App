@@ -727,8 +727,7 @@ class _ActivityDetailState extends State<ActivityDetail> {
                                 hintText:
                                     'Pick a location where the activity will take place',
                                 automaticallyImplyAppBarLeading: false,
-                                apiKey:
-                                    'AIzaSyDtDHVEe1pphOf40l1Dm0vhUFsZYkxAsqw',
+                                apiKey:'your-api-key-here',
                                 initialPosition: LatLng(
                                     _location.latitude, _location.longitude),
                                 onPlacePicked: (PickResult result) {

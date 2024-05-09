@@ -8,7 +8,7 @@
         <uses-library android:name="org.apache.http.legacy" android:required="false" />
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDtDHVEe1pphOf40l1Dm0vhUFsZYkxAsqw"
+            android:value="your-api-key-here"
         />
         <activity
             android:name=".MainActivity"
