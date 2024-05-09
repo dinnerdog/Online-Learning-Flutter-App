@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "flutter-392e6"
+  },
+  "targets": {},
+  "etags": {
+    "flutter-392e6": {
+      "extensionInstances": {}
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "pink_dodge.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "pink_dodge.tmx": {
+            "scale": 0.3456,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 400.7523148148148,
+                "y": 370.3703703703703
+            }
+        },
+        "pink_dodge.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.96
+        },
+        "pink_dodge_infi.tmx": {
+            "scale": 0.7412,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 29.007015650296836,
+                "y": -9.444144630329163
+            }
+        },
+        "tree.tmx": {
+            "scale": 1.492,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 310.656836461126,
+                "y": 209.78552278820376
+            }
+        },
+        "trees.tsx": {
+            "scaleInDock": 2.2173,
+            "scaleInEditor": 1.96
+        }
+    },
+    "last.imagePath": "/Users/male/Desktop/test1/assets/images",
+    "map.fixedSize": true,
+    "map.height": 24,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 34,
+    "openFiles": [
+        "pink_dodge.tsx",
+        "pink_dodge.tmx",
+        "pink_dodge_infi.tmx",
+        "trees.tsx",
+        "tree.tmx"
+    ],
+    "project": "pink_dodge.tiled-project",
+    "recentFiles": [
+        "pink_dodge.tsx",
+        "tree.tmx",
+        "trees.tsx",
+        "pink_dodge_infi.tmx",
+        "pink_dodge.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
