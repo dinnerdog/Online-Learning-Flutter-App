@@ -1,6 +1,6 @@
 # Kind Hearts Online Learning App
 
-Welcome to the Kind Hearts Online Learning App! This app is part of my master's project and is built using Flutter and Firebase. It provides various features targeting early students aged 8-12 years old. All assets used in this app are non-copyright, so you can use them without concerns.
+Welcome to the Kind Hearts Online Learning App! This app is part of my master's project and is built using Flutter and Firebase. It provides various features targeting early students aged 8-12 years old. All assets used in this app are non-copyright, so you can use them without concerns. Additionally, you can find the accessibility manual for both Android and iOS platforms.
 
 ## Features
 
